@@ -1,6 +1,3 @@
 class Cat
-
-  def name
-    attr_accessor = "Maru"
-  end
+  attr_accessor :name
 end
