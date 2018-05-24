@@ -1,5 +1,5 @@
 class Cat
 
   def name
-    attr_accessor: "Maru"
+    attr_accessor = "Maru"
   end
